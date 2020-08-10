@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Sam Bingner
 Author: Sam Binger
 Pre-Depends: libssl1.1.1, dpkg (>= 1.14.25-8)
-Filename: /debs/openssh_6.7p1-13_iphoneos-arm.deb
+Filename: ./debs/openssh_6.7p1-13_iphoneos-arm.deb
 Section: Networking
 Description: secure remote access between machines
 Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
@@ -16,7 +16,7 @@ SHA256: ff4eb2a1e4453051e52ba56a71c3d4f56d00c1e83095653647a7a4f49b4c3b1f
 
 Package: com.iarrays.tsssaver2
 Pre-Depends: firmware (>=8.0)
-Filename: ./deb/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
+Filename: ./debs/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
 Depends: mobilesubstrate, net.limneos.libbulletin
 Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
 Maintainer: IArrays
