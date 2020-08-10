@@ -21,12 +21,12 @@ Description: Coming Soon...
 Maintainer: DazhXV
 Author: DazhXV
 Section: Temas
-Version: 1.1-TEST
+Version: 1.2-TEST
 Name: SunGlow
 Architecture: iphoneos-arm
 Icon: https://f34rlessra1n.github.io/icons/SunGlow.png
 Depiction: https://f34rlessra1n.github.io/depiction/SunGlow.png
-Size: 168968
-MD5sum: bedec95c174661a0cf94f008a75eba78
-SHA1: 609cf29f66e073487c5365df5e76251f8bef4d44
-SHA256: 30ce0c35cc95e1f94619305d2c6355a7e17835e1db6630438377db131c1c874c
+Size: 272584
+MD5sum: 57dab5c8980f6c557676cac57e36a4b4
+SHA1: 64506483580f7846488c7abd43b11c87d2994e0e
+SHA256: 02e9f67d22426994488039e5a08bd364328a4c60b19a04d828e30981b1107de9
