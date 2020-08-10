@@ -25,8 +25,7 @@ Section: Tweaks
 Version: 1.0-beta-4
 Name: TSSSaver 2
 Architecture: iphoneos-arm
-Depiction: https://f34rlessra1n.github.io/sectionicon/Others.png
-Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
+Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
 Size: 423588
 MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
 SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
