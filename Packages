@@ -15,18 +15,18 @@ MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
 SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
 SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
 
-Package: com.sakuratheme.test
+Package: com.sakuratheme.sunglow
 Filename: ./debs/com.sakuratheme.sunglow.deb
 Description: Coming Soon...
-Maintainer: F34RLESSRA1N
+Maintainer: DazhXV
 Author: DazhXV
 Section: Temas
 Version: 1.0
-Name: SunGlow Glyph
+Name: SunGlow
 Architecture: iphoneos-arm
 Icon: https://f34rlessra1n.github.io/icons/SunGlow.png
 Depiction: https://f34rlessra1n.github.io/depiction/SunGlow.png
-Size: 587678
-MD5sum: 51b3398d67bc3b861642c1eff23f9e42
-SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
-SHA256: ff4eb2a1e4453051e52ba56a71c3d4f56d00c1e83095653647a7a4f49b4c3b1f
+Size: 63838
+MD5sum: 8b75f2a0637b3f2205417b09010e45c5
+SHA1: 7e6c5bc928b04d9aabd514aa9ba9937219ece8df
+SHA256: 94f340f28835ca26d9ea2d731790993de3689b020369d12ea362114bd09f0289
