@@ -13,3 +13,21 @@ Size: 587678
 MD5sum: 51b3398d67bc3b861642c1eff23f9e42
 SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
 SHA256: ff4eb2a1e4453051e52ba56a71c3d4f56d00c1e83095653647a7a4f49b4c3b1f
+
+Package: com.iarrays.tsssaver2
+Pre-Depends: firmware (>=8.0)
+Filename: deb/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
+Depends: mobilesubstrate, net.limneos.libbulletin
+Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
+Maintainer: IArrays
+Author: IArrays
+Section: Tweaks
+Version: 1.0-beta-4
+Name: TSSSaver 2
+Architecture: iphoneos-arm
+Depiction: https://f34rlessra1n.github.io/sectionicon/Others.png
+Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
+Size: 423588
+MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
+SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
+SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
