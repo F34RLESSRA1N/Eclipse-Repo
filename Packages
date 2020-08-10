@@ -1,13 +1,14 @@
 Package: openssh
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/openssh_6.7p1-13_iphoneos-arm.deb
-Depends: openssl
-Description: secure remote access between machines
-Section: Networking
 Version: 6.7p1-13
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner
+Author: Sam Binger
+Pre-Depends: libssl1.1.1, dpkg (>= 1.14.25-8)
+Filename: /debs/openssh_6.7p1-13_iphoneos-arm.deb
+Section: Networking
+Description: secure remote access between machines
 Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
 Name: OpenSSH
-Architecture: iphoneos-arm
 Size: 587678
 MD5sum: 51b3398d67bc3b861642c1eff23f9e42
 SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
