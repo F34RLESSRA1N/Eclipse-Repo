@@ -1,19 +1,3 @@
-Package: openssh
-Version: 6.7p1-13
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner
-Author: Sam Binger
-Pre-Depends: libssl1.1.1, dpkg (>= 1.14.25-8)
-Filename: ./debs/openssh_6.7p1-13_iphoneos-arm.deb
-Section: Networking
-Description: secure remote access between machines
-Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
-Name: OpenSSH
-Size: 587678
-MD5sum: 51b3398d67bc3b861642c1eff23f9e42
-SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
-SHA256: ff4eb2a1e4453051e52ba56a71c3d4f56d00c1e83095653647a7a4f49b4c3b1f
-
 Package: com.iarrays.tsssaver2
 Pre-Depends: firmware (>=8.0)
 Filename: ./debs/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
@@ -30,3 +14,18 @@ Size: 423588
 MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
 SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
 SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
+
+Package: com.sakuratheme.test
+Filename: ./debs/com.sakuratheme.sunglow.deb
+Description: Coming Soon...
+Maintainer: F34RLESSRA1N
+Author: DazhXV
+Section: Temas
+Version: 1.0
+Name: SunGlow Glyph
+Architecture: iphoneos-arm
+Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
+Size: 587678
+MD5sum: 51b3398d67bc3b861642c1eff23f9e42
+SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
+SHA256: ff4eb2a1e4453051e52ba56a71c3d4f56d00c1e83095653647a7a4f49b4c3b1f
