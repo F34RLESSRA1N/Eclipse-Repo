@@ -4,8 +4,3 @@
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
-      "tabname": "Details",
-      "tintColor": "#ebb32a",
-      "views": [
-        {
