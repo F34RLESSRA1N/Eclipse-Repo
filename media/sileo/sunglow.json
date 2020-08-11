@@ -1,0 +1,11 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://f34rlessra1n.github.io/media/assets/SunGlow.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "tintColor": "#ebb32a",
+      "views": [
+        {

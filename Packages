@@ -26,6 +26,7 @@ Section: Temas
 Filename: ./debs/com.sakuratheme.sunglow.deb
 Depends: com.spark.snowboard
 Icon: https://f34rlessra1n.github.io/media/icons/Temas/SunGlow.png
+Sileodepiction: https://f34rlessra1n.github.io/media/sileo/sunglow.json
 Size: 521856
 MD5sum: d91c21bd3c77435f2436fe09e098fdc5
 SHA1: 5d06818e5485c8079060ef577215756e8cc55568
