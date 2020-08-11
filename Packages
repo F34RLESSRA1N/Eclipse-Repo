@@ -17,16 +17,15 @@ SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
 
 Package: com.sakuratheme.sunglow
 Filename: ./debs/com.sakuratheme.sunglow.deb
-Description: Coming Soon...
+Description: SunGlow: Giving a little sunshine to your Springboard.
 Maintainer: DazhXV
 Author: DazhXV
 Section: Temas
-Version: 1.2-TEST
+Version: 1.3-TEST
 Name: SunGlow
 Architecture: iphoneos-arm
 Icon: https://f34rlessra1n.github.io/icons/SunGlow.png
-Depiction: https://f34rlessra1n.github.io/depiction/SunGlow.png
-Size: 272584
-MD5sum: 57dab5c8980f6c557676cac57e36a4b4
-SHA1: 64506483580f7846488c7abd43b11c87d2994e0e
-SHA256: 02e9f67d22426994488039e5a08bd364328a4c60b19a04d828e30981b1107de9
+Size: 521856
+MD5sum: d91c21bd3c77435f2436fe09e098fdc5
+SHA1: 5d06818e5485c8079060ef577215756e8cc55568
+SHA256: a24feb4f88613489407a55b62f7618ff1e37e186db4646175ce2de322b7d6567
