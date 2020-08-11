@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added Twitter & Spotify Icons/li>\n</ul>",
+          "markdown": "<ul>\n<li>Added Twitter & Spotify Icons</li>\n</ul>",
           "useRawFormat": true
         }
       ]
