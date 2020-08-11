@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpeg') no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+  transition: 10s;
+}
+
+.login-box {
+  width: 320px;
+  height: 420px;
+  background: #30336b;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.login-box .avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+.login-box h1 {
+  margin: 0;
+  padding: 0px 0px 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #a29bfe;
+  font-size: 15px;
+}
+
+.login-box h2 {
+  margin: 0;
+  padding: 0px 0px 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 15px;
+}
+
+.login-box .cydia:link, .cydia:visited {
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-radius: 25px;
+  height: 40px;
+  padding: 5px 105px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background: #a29bfe;
+  text-decoration: none;
+}
+
+.login-box .cydia:hover, .cydia:active {
+  background-color: #ffeaa7;
+  color: black;
+  transition: 0.5s;
+}
+
+.login-box .installer:link {
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-radius: 25px;
+  height: 40px;
+  padding: 5px 87px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background: #a29bfe;
+  text-decoration: none;
+}
+
+.login-box .installer:hover, .installer:active {
+  background-color: #ffeaa7;
+  color: black;
+  transition: 0.5s;
+}
+
+.login-box .sileo:link {
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-radius: 25px;
+  height: 40px;
+  padding: 5px 106px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background: #a29bfe;
+  text-decoration: none;
+}
+
+.login-box .sileo:hover, .sileo:active {
+  background-color: #ffeaa7;
+  color: black;
+  transition: 0.5s;
+}
+
+.login-box .bottom {
+  font-weight: normal;
+  text-transform: none;
+  text-align: center;
+  bottom: 10px;
+  font-size: 10px;
+  color: #a29bfe;
+}
