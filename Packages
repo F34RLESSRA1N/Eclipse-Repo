@@ -33,6 +33,7 @@ Section: Temas
 Description: A beautiful icons test!
 Author: F34RLESSRA1N
 Name: Andromeda
+Depiction: https://f34rlessra1n.github.io/depictions/?p=com.sakuratheme.andromeda
 
 Package: com.sakuratheme.sunglow
 Version: 1.3-TEST
@@ -48,4 +49,3 @@ Section: Temas
 Description: A beautiful icons test!
 Author: DazhXV
 Name: SunGlow
-
