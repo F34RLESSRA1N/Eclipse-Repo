@@ -1,0 +1,15 @@
+<package>
+  <id>com.sakuratheme.andromeda</id>
+  <name>Andromeda</name>
+  <version>1.2-TEST</version>
+
+  <dependencies>com.spark.snowboard</dependencies>
+  <descriptionlist>
+    <description>Andromeda: Bringing the cosmos.</description>
+  </descriptionlist>
+  <screenshots></screenshots>
+  <changelog>
+    <change>Initial release</change>
+  </changelog>
+  <links></links>
+</package>

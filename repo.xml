@@ -1,0 +1,14 @@
+<repo>
+  <footerlinks>
+    <link>
+      <name>Follow me on Twitter</name>
+      <url>https://twitter.com/f34rlessra1n</url>
+      <iconclass>glyphicon glyphicon-user</iconclass>
+    </link>
+    <link>
+      <name>Depiction test</name>
+      <url>https://f34rlessra1n.github.io</url>
+      <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+    </link>
+  </footerlinks>
+</repo>

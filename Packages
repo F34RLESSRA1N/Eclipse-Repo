@@ -1,50 +1,51 @@
 Package: com.iarrays.tsssaver2
-Pre-Depends: firmware (>=8.0)
-Filename: ./debs/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
-Depends: mobilesubstrate, net.limneos.libbulletin
-Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
-Maintainer: IArrays
-Author: IArrays
-Section: Tweaks
 Version: 1.0-beta-4
-Name: TSSSaver 2
 Architecture: iphoneos-arm
-Icon: https://f34rlessra1n.github.io/sectionicon/Others.png
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
 Size: 423588
 MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
 SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
 SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
-
-Package: com.sakuratheme.sunglow
-Version: 1.3-TEST
-Architecture: iphoneos-arm
-Maintainer: DazhXV
-Author: DazhXV
-Name: SunGlow
-Description: SunGlow: Giving a little sunshine to your Springboard.
-Section: Temas
-Filename: ./debs/com.sakuratheme.sunglow.deb
-Depends: com.spark.snowboard
-Icon: https://f34rlessra1n.github.io/media/icons/Temas/SunGlow.png
-Sileodepiction: https://f34rlessra1n.github.io/media/sileo/sunglow.json
-Size: 521856
-MD5sum: d91c21bd3c77435f2436fe09e098fdc5
-SHA1: 5d06818e5485c8079060ef577215756e8cc55568
-SHA256: a24feb4f88613489407a55b62f7618ff1e37e186db4646175ce2de322b7d6567
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/tsssaver
+Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
+Name: TSSSaver 2
+Sileodepiction: http://iarrays.com/sileo-depiction/tsssaver/tsssaver.json
+Sponsor: IArrays
 
 Package: com.sakuratheme.andromeda
 Version: 1.2-TEST
 Architecture: iphoneos-arm
 Maintainer: F34RLESSRA1N
-Author: F34RLESSRA1N
-Name: Andromeda
-Description: ?
-Section: Temas
-Filename: ./debs/com.sakuratheme.andromeda.deb
 Depends: com.spark.snowboard
-Icon: https://f34rlessra1n.github.io/media/icons/Temas/SunGlow.png
-Sileodepiction: https://f34rlessra1n.github.io/media/sileo/sunglow.json
+Filename: ./debs/com.sakuratheme.andromeda.deb
 Size: 514384
 MD5sum: c7fca6b7d753b3f8e29df577e12632fa
 SHA1: 176dd61cfb7144d1e44fcbd5c4b871b8eef2a4e7
 SHA256: 23988297e65dfd3e16fbb1d5b7014c54f87f3e27b7e59a187d986c5b08f0e80f
+Section: Temas
+Description: A beautiful icons test!
+Author: F34RLESSRA1N
+Name: Andromeda
+
+Package: com.sakuratheme.sunglow
+Version: 1.3-TEST
+Architecture: iphoneos-arm
+Maintainer: DazhXV
+Depends: com.spark.snowboard
+Filename: ./debs/com.sakuratheme.sunglow.deb
+Size: 521856
+MD5sum: d91c21bd3c77435f2436fe09e098fdc5
+SHA1: 5d06818e5485c8079060ef577215756e8cc55568
+SHA256: a24feb4f88613489407a55b62f7618ff1e37e186db4646175ce2de322b7d6567
+Section: Temas
+Description: A beautiful icons test!
+Author: DazhXV
+Name: SunGlow
+
