@@ -23,7 +23,6 @@ Package: com.sakuratheme.andromeda
 Version: 1.2-TEST
 Architecture: iphoneos-arm
 Maintainer: F34RLESSRA1N
-Depends: com.spark.snowboard
 Filename: ./debs/com.sakuratheme.andromeda.deb
 Size: 514424
 MD5sum: 30f424a13d7fabcaa1de0c2d38f2ac36
@@ -39,7 +38,6 @@ Package: com.sakuratheme.sunglow
 Version: 1.3-TEST
 Architecture: iphoneos-arm
 Maintainer: DazhXV
-Depends: com.spark.snowboard
 Filename: ./debs/com.sakuratheme.sunglow.deb
 Size: 521856
 MD5sum: d91c21bd3c77435f2436fe09e098fdc5
