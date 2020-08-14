@@ -25,15 +25,15 @@ Architecture: iphoneos-arm
 Maintainer: F34RLESSRA1N
 Depends: com.spark.snowboard
 Filename: ./debs/com.sakuratheme.andromeda.deb
-Size: 514384
-MD5sum: c7fca6b7d753b3f8e29df577e12632fa
-SHA1: 176dd61cfb7144d1e44fcbd5c4b871b8eef2a4e7
-SHA256: 23988297e65dfd3e16fbb1d5b7014c54f87f3e27b7e59a187d986c5b08f0e80f
+Size: 514424
+MD5sum: 30f424a13d7fabcaa1de0c2d38f2ac36
+SHA1: 97e8c9b66bfc4c1f201a7624283b1a4f346c4850
+SHA256: 0d1d2d1fc47fffd22be57c289e0bb57fea2ccb6609ab32b4160de47531e79a18
 Section: Temas
 Description: A beautiful icons test!
 Author: F34RLESSRA1N
-Name: Andromeda
 Depiction: https://f34rlessra1n.github.io/depictions/?p=com.sakuratheme.andromeda
+Name: Andromeda
 
 Package: com.sakuratheme.sunglow
 Version: 1.3-TEST

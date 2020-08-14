@@ -2,14 +2,26 @@
   <id>com.sakuratheme.andromeda</id>
   <name>Andromeda</name>
   <version>1.2-TEST</version>
-
-  <dependencies>com.spark.snowboard</dependencies>
-  <descriptionlist>
-    <description>Andromeda: Bringing the cosmos.</description>
-  </descriptionlist>
+  <compatibility>
+      <firmware>
+          <miniOS>7.0</miniOS>
+      </firmware>
+  </compatibility>
+  <dependencies>
+      <package>com.spark.snowboard</package>
+  </dependencies>
+  <ShortDescription>Andromeda: Bringing the cosmos.</ShortDescription>
   <screenshots></screenshots>
   <changelog>
-    <change>Initial release</change>
+    <change>
+      <change>Added 4 icons</change>
+      <change>Added 3 icons</change>
+      <change>Initial release</change>
+    </change>
   </changelog>
-  <links></links>
+  <links>
+      <name>Twitter!</name>
+      <url>https://twitter.com/f34rlessra1n</url>
+      <iconclass>fa fa-twitter</iconclass>
+  </links>
 </package>
